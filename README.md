@@ -1,4 +1,4 @@
-Olá! Eu me chamo Jefferson Cardoso 💻
+Olá! Eu me chamo Jefferson Cardoso 💻 </br>
 Desenvolvedor Front-end responsável pela criação de aplicações web interativas, landing pages responsivas e interfaces de usuário intuitivas, estou sempre buscando novos desafios para expandir minhas habilidades e conhecimentos.
 
 Utilizo as mais recentes tecnologias front-end como HTML5, CSS3, JavaScript, ReactJs.
