@@ -1,5 +1,8 @@
 Olá! Eu me chamo Jefferson Cardoso 💻
-Sou Desenvolvedor Front-end e mobile
+Desenvolvedor Front-end responsável pela criação de aplicações web interativas, landing pages responsivas e interfaces de usuário intuitivas, estou sempre buscando novos desafios para expandir minhas habilidades e conhecimentos.
+
+Utilizo as mais recentes tecnologias front-end como HTML5, CSS3, JavaScript, ReactJs.
+Támbem utilizo TailwindCss para estilização do projeto, que é uma excelente ferramenta que me ajuda a trabalhar com mais fluidez e  agilidade.
 
 Tecnologias que uso:
 <div style="display: inline_block">
