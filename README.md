@@ -1,9 +1,6 @@
 Olá! Eu me chamo Jefferson Cardoso 💻 </br>
 Desenvolvedor Front-end responsável pela criação de aplicações web interativas, landing pages responsivas e interfaces de usuário intuitivas, estou sempre buscando novos desafios para expandir minhas habilidades e conhecimentos.
 
-Utilizo as mais recentes tecnologias front-end como HTML5, CSS3, JavaScript, TypeScript e ReactJs.
-Támbem utilizo TailwindCss para estilização do projeto, que é uma excelente ferramenta que me ajuda a trabalhar com mais fluidez e  agilidade.
-
 Tecnologias que uso:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
