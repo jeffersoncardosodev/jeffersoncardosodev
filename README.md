@@ -25,8 +25,7 @@
 
 ## 📈 Evolução
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersoncardosodev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
----
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jeffersoncardosodev&show_icons=true&theme=tokyonight)---
 
 ## 🎯 Objetivo
 
