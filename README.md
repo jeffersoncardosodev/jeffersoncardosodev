@@ -25,7 +25,7 @@
 
 ## 📈 Evolução
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersoncardosodev&show_icons=true&theme=tokyonight)
 
 ---
 
