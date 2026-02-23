@@ -1,4 +1,4 @@
-# 🚀 Jefferson Cardoso
+# 💻 Jefferson Cardoso
 
 💼 Desenvolvedor de Software em formação  
 🎯 Preparando base sólida para o mercado  
