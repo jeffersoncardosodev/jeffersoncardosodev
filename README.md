@@ -23,10 +23,6 @@
 
 ---
 
-## 📈 Evolução
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jeffersoncardosodev&show_icons=true&theme=tokyonight)---
-
 ## 🎯 Objetivo
 
 Construir uma base técnica forte para atuar como desenvolvedor,
