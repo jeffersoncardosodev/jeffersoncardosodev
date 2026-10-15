@@ -4,7 +4,8 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Atualmente atuo como Estagiário em Desenvolvimento de Software, desenvolvendo e mantendo aplicações web com React, Next.js e TypeScript. Participo da implementação de funcionalidades, correção de bugs, integração com APIs REST e evolução de sistemas corporativos.
+Atualmente atuo como Estagiário em Desenvolvimento de Software, desenvolvendo e mantendo aplicações web com React, Next.js e TypeScript. </br>
+Participo da implementação de funcionalidades, correção de bugs, integração com APIs REST e evolução de sistemas corporativos.
 
 ---
 
