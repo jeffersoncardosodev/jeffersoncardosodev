@@ -10,29 +10,9 @@ Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando
 
 ## 🚀 Tecnologias
 
-### Front-end
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-
-### Back-end
-
-- Node.js
-- Java
-- Firebase
-
-### Ferramentas
-
-- Git
-- GitHub
-- Redux
-- React Hook Form
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,java,git,github,firebase,vscode,idea" />
+</p>
 
 ## 📚 Atualmente estudando
 
@@ -48,8 +28,6 @@ Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-cardoso03
 - 📧 E-mail: jeffersoncardoso.dev@gmail.com
 
-  ## 🚀 Tecnologias
+ 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,java,git,github,firebase,vscode,idea" />
-</p>
+
