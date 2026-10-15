@@ -11,7 +11,7 @@ Atualmente atuo como Estagiário em Desenvolvimento de Software, desenvolvendo e
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,java,git,github,firebase,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,java,git,github,firebase" />
 </p>
 
 ## 📚 Atualmente estudando
