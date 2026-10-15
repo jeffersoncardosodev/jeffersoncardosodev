@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando **React**, **Next.js** e **TypeScript**, participando da implementação de novas funcionalidades, correção de bugs, integração com APIs REST e evolução de sistemas corporativos.
+Atualmente atuo como Estagiário em Desenvolvimento de Software, desenvolvendo e mantendo aplicações web com React, Next.js e TypeScript. Participo da implementação de funcionalidades, correção de bugs, integração com APIs REST e evolução de sistemas corporativos.
 
 ---
 
@@ -19,7 +19,17 @@ Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando
 - Java
 - Spring Boot
 - Estruturas de Dados
-- Boas práticas de desenvolvimento
+- Arquitetura de Software
+
+---
+
+## 📊 Estatísticas
+
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersoncardosodev&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncardosodev&layout=compact&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeffersoncardosodev&theme=github-dark)](https://git.io/streak-stats)
 
 ---
 
