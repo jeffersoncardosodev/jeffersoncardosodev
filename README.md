@@ -1,18 +1,55 @@
-# 💻 Jefferson Cardoso
+Olá! Eu sou o Jefferson Cardoso 👋
 
-💼 Desenvolvedor de Software em formação  
-🎯 Preparando base sólida para o mercado  
-📍 Disciplina • Constância • Evolução contínua  
+💻 Estagiário em Desenvolvimento de Software
 
----
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-## 📚 Atualmente estudando
+Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando React, Next.js e TypeScript, participando da implementação de novas funcionalidades, correção de bugs, integração com APIs REST e evolução de sistemas corporativos.
 
-- ☕ Programação Orientada a Objetos (Java)
-- 📦 Estrutura de Dados
-- 🔁 Boas práticas com Git e versionamento
+🚀 Tecnologias
 
----
+Front-end
+
+React
+
+Next.js
+
+TypeScript
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Back-end
+
+Node.js
+
+Java
+
+Firebase
+
+Ferramentas
+
+Git
+
+GitHub
+
+Redux
+
+React Hook Form
+
+📚 Atualmente estudando
+
+Java
+
+Spring Boot
+
+Estruturas de Dados
+
+Boas práticas de desenvolvimento
+
 
 ## 🛠 Stack
 
@@ -23,10 +60,11 @@
 
 ---
 
-## 🎯 Objetivo
+📫 Contato
 
-Construir uma base técnica forte para atuar como desenvolvedor,
-entregando código organizado, funcional e bem estruturado.
+LinkedIn: www.linkedin.com/in/jefferson-cardoso03
+
+E-mail: jeffersoncardoso.dev@gmail.com
 
 
  
