@@ -47,3 +47,9 @@ Atualmente atuo no desenvolvimento e manutenção de aplicações web utilizando
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jefferson-cardoso03
 - 📧 E-mail: jeffersoncardoso.dev@gmail.com
+
+  ## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nodejs,java,git,github,firebase,vscode,idea" />
+</p>
